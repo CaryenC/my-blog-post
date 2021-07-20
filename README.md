@@ -55,6 +55,8 @@ For creating this blogpost, I use these libraries and tools.
 
 * SQLAlchemy
 
+* HTML5, Bootstrap4.4.0
+
 * Git
 
 ## Credit
