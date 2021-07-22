@@ -41,7 +41,9 @@ I have learnt something by doing this exercise:
 
 * Internal documenting the functions to clearly explain its purpose, its input data, and its return value
 
-* Building a reusable HTML template and applying it in different other HTML files.
+* Building a reusable HTML template and applying it in different other HTML files
+
+* Restructuring our application to use blueprints
 
 ## Tools
 
